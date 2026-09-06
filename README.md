@@ -27,13 +27,13 @@ Três projetos de estudo, uma ideia em comum: deixar o dia a dia mais simples. T
 
 <a href="projects/file-garden"><img src="assets/file-garden.svg" width="100%" alt="02 — File Garden. Organizador de arquivos com prévia e proteção contra sobrescrita. Abrir projeto." /></a>
 
-<a href="projects/habit-bloom"><img src="assets/habit-bloom.svg" width="100%" alt="03 — Habit Bloom. Hábitos, sequência de dias e progresso salvo no computador. Abrir projeto." /></a>
+<a href="projects/habit-bloom"><img src="assets/habit-bloom.svg" width="100%" alt="03 — Habit Bloom 2. Interface renovada, metas semanais, XP e conquistas. Abrir projeto." /></a>
 
 | Projeto | O que você encontra | Explorar |
 | :-- | :-- | :-- |
 | **Focus Flow** | Timer 25/5, pausa e retomada, contador de sessões | [Código e guia](projects/focus-flow) |
 | **File Garden** | Organização por extensão, prévia e nomes sem colisão | [Código e guia](projects/file-garden) |
-| **Habit Bloom** | Check-in diário, sequência e histórico de 7 dias | [Código e guia](projects/habit-bloom) |
+| **Habit Bloom 2** | Metas semanais, XP, conquistas e histórico de 28 dias | [Código e guia](projects/habit-bloom) |
 
 ### Em construção, sempre
 

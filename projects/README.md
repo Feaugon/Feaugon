@@ -6,7 +6,7 @@ Três aplicativos independentes em Python 3.10+, construídos como projetos de e
 | --- | --- | --- |
 | [Focus Flow](focus-flow) | Desktop / Tkinter | `python focus_flow.py` |
 | [File Garden](file-garden) | Terminal | `python file_garden.py "pasta"` |
-| [Habit Bloom](habit-bloom) | Desktop / Tkinter | `python habit_bloom.py` |
+| [Habit Bloom 2](habit-bloom) | Desktop / Tkinter | `python habit_bloom.py` |
 
 ## Baixar e experimentar
 
@@ -20,9 +20,9 @@ Você também pode usar **Code → Download ZIP** no repositório e extrair os a
 
 ## Validação desta versão
 
-- **16 testes automatizados aprovados** em Python 3.11 no Windows: 5 do timer, 5 do organizador e 6 dos hábitos.
+- **24 testes automatizados aprovados** em Python 3.12 no Windows: 5 do timer, 5 do organizador e 14 dos hábitos.
 - O organizador foi exercitado com arquivos temporários; nenhum arquivo pessoal foi usado.
-- A construção das janelas não pôde ser validada no ambiente de desenvolvimento por falha na inicialização do Tcl/Tk. Os testes do timer e da persistência não dependem de abrir janelas.
+- A inicialização das interfaces foi validada. No Habit Bloom 2, os testes de interface também exercitam navegação, edição, histórico e arquivamento/restauração.
 - A revisão visual dos banners SVG foi concluída. Eles são ilustrações de apresentação, não capturas de tela dos aplicativos.
 
 [← Voltar ao perfil](../README.md)
