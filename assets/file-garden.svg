@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
+  <title id="title">File Garden</title><desc id="desc">Organização por tipo, com prévia e proteção contra sobrescrita.</desc>
+  <rect x="1" y="1" width="1198" height="188" rx="20" fill="#101827" stroke="#2b3b56" stroke-width="2"/>
+  <rect x="1" y="35" width="5" height="120" rx="2" fill="#ffca88"/>
+  <text x="35" y="43" fill="#ffca88" font-family="Consolas,monospace" font-size="15">02 /</text>
+  <text x="108" y="43" fill="#ffca88" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="2">CADA ARQUIVO, UM LUGAR</text>
+  <text x="108" y="96" fill="#f4f7ff" font-family="Segoe UI,Arial,sans-serif" font-size="40" font-weight="700">File Garden</text>
+  <text x="109" y="133" fill="#b5c2db" font-family="Segoe UI,Arial,sans-serif" font-size="18">Organização por tipo, com prévia e proteção contra sobrescrita.</text>
+  <text x="109" y="164" fill="#ffca88" font-family="Consolas,monospace" font-size="12">PYTHON · CÓDIGO + DOCUMENTAÇÃO + TESTES</text>
+  <rect x="990" y="36" width="158" height="118" rx="17" fill="#1b2940"/>
+  <text x="1069" y="110" text-anchor="middle" fill="#ffca88" font-family="Consolas,monospace" font-size="36" font-weight="700">./</text>
+</svg>

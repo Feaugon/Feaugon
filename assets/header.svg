@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="410" viewBox="0 0 1200 410" role="img" aria-labelledby="title desc">
+  <title id="title">Feaugon — ideias em movimento</title>
+  <desc id="desc">Banner azul escuro com tipografia branca, detalhes menta e lilás e uma órbita geométrica. Python, curiosidade e construção.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101827"/><stop offset="1" stop-color="#1b2845"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#63dec3"/><stop offset="1" stop-color="#c0a1ff"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+  </defs>
+  <rect width="1200" height="410" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="410" rx="24" fill="url(#grid)"/>
+  <path d="M48 45h32" stroke="#63dec3" stroke-width="4"/>
+  <text x="94" y="51" fill="#63dec3" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="4">FEAUGON / DEV LAB</text>
+  <text x="48" y="151" fill="#f4f7ff" font-family="Segoe UI,Arial,sans-serif" font-size="78" font-weight="700" letter-spacing="-3">Ideias em</text>
+  <text x="48" y="239" fill="url(#accent)" font-family="Segoe UI,Arial,sans-serif" font-size="78" font-weight="700" letter-spacing="-3">movimento.</text>
+  <text x="51" y="289" fill="#b5c2db" font-family="Segoe UI,Arial,sans-serif" font-size="20">Aprender. Experimentar. Construir.</text>
+  <path d="M50 332H670" stroke="#34425c"/>
+  <text x="51" y="369" fill="#b5c2db" font-family="Consolas,monospace" font-size="14" letter-spacing="1">PYTHON  /  CURIOSIDADE  /  PROJETOS REAIS</text>
+  <g transform="translate(945 199)">
+    <circle r="141" fill="none" stroke="#354763"/>
+    <circle r="108" fill="none" stroke="#354763" stroke-dasharray="3 9"/>
+    <ellipse rx="180" ry="61" transform="rotate(-38)" fill="none" stroke="#63dec3" stroke-width="2"/>
+    <ellipse rx="145" ry="62" transform="rotate(45)" fill="none" stroke="#c0a1ff" stroke-opacity=".7" stroke-width="2"/>
+    <rect x="-66" y="-56" width="132" height="112" rx="24" fill="#101827" stroke="#566584"/>
+    <text x="0" y="17" text-anchor="middle" fill="#f4f7ff" font-family="Consolas,monospace" font-size="53">&lt;/&gt;</text>
+    <circle cx="109" cy="-90" r="11" fill="#63dec3"/>
+    <circle cx="-98" cy="105" r="7" fill="#c0a1ff"/>
+    <circle cx="146" cy="72" r="4" fill="#f4f7ff"/>
+  </g>
+  <text x="945" y="380" text-anchor="middle" fill="#b5c2db" font-family="Consolas,monospace" font-size="12" letter-spacing="3">BUILD · LEARN · REPEAT</text>
+</svg>
